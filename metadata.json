@@ -1,0 +1,7 @@
+{
+  "name": "超强图片反推解析助手V1.3",
+  "description": "一款基于AI的专业图片解析工具，采用多巴胺卡通视觉设计，支持深度JSON解析、智能修改、双语翻译及一键复制功能。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
